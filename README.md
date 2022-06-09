@@ -25,13 +25,13 @@ Seen below is a heatmap that displays the trips by gender by weekday for Citi Bi
 
  
 
-#Summary: This data will be helpful in the process of dupicating the success of Citi Bike in Des Moines.
+# Summary: This data will be helpful in the process of dupicating the success of Citi Bike in Des Moines.
 
-##Main Points: 
+## Main Points: 
 --most rides do not last longer than 10 minutes
 --the highest ride density is Monday, Tuesday and Thursday at the hours of 5 and 6 pm.
 --the majority of riders are male
-##Future Visualizations:
+## Future Visualizations:
 --Taking location data on Des Moines in regards to population density, foot traffic, and possibly survey locals on levels of interest
 --In order to analyze non-subscribers, it may be pertinent to plot their location data, in an attempt to find trends
 
