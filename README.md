@@ -32,6 +32,8 @@ Seen below is a heatmap that displays the trips by gender by weekday for Citi Bi
 ### most rides do not last longer than 10 minutes
 ### the highest ride density is Monday, Tuesday and Thursday at the hours of 5 and 6 pm.
 ### the majority of riders are male
+
+https://public.tableau.com/app/profile/thomas8016/viz/Deliverable2_16547485408660/Story1?publish=yes
 ## Future Visualizations:
 ### Taking location data on Des Moines in regards to population density, foot traffic, and possibly survey locals on levels of interest
 ### In order to analyze non-subscribers, it may be pertinent to plot their location data, in an attempt to find trends
