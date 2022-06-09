@@ -1,7 +1,7 @@
 # bikesharing
-Overview: the purpose of this analysis was to analyze Citi Bike and their NYC data, in hopes of bringing a similar service to Des Moines Iowa
+# Overview: the purpose of this analysis was to analyze Citi Bike and their NYC data, in hopes of bringing a similar service to Des Moines Iowa
 
-Results:
+# Results:
 Seen below is a line chart that displays the checkout time for Citi Bike users.
 
 ![image](https://user-images.githubusercontent.com/101481759/172766338-8260ac57-688b-46d0-a70c-c462717cd0e2.png)
@@ -25,12 +25,12 @@ Seen below is a heatmap that displays the trips by gender by weekday for Citi Bi
 
  
 
-Summary:
--Main Points: 
+#Summary:
+##Main Points: 
 --most rides do not last longer than 10 minutes
 --the highest ride density is Monday, Tuesday and Thursday at the hours of 5 and 6 pm.
 --the majority of riders are male
--Future Visualizations:
+##Future Visualizations:
 --Taking location data on Des Moines in regards to population density, foot traffic, and possibly survey locals on levels of interest
 --In order to analyze non-subscribers, it may be pertinent to plot their location data, in an attempt to find trends
 
